@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I am Riccardo Bonfanti.
+I am a Master's student pursuing a double degree in Computer Science and Engineering at University of Illinois Chicago and Politecnico di Milano.
 
 <!--
 **BonfantiRiccardo/BonfantiRiccardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
